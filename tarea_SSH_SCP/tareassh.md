@@ -42,7 +42,7 @@
 
   ![cap9](imagenes/f9.png)
 
-  3. Pasaremos los directorios `prueba` y `prueba2` al ordenador anfitrión. Ejecutamos los comandos necesarios desde la máquina anfitrión.
+  3. Pasaremos los directorios `prueba` y `prueba2` al ordenador anfitrión. Ejecutamos los comandos necesarios desde la máquina anfitrión.(la ruta es C:\Users\ASIR115\Desktop\ q sale cortada q no me di cuenta)
 
   ![cap10](imagenes/f10.png)
   ![cap11](imagenes/f11.png)
@@ -51,6 +51,7 @@
   4. Creamos el directorio `prueba3` en el servidor con **200 archivos .txt** y lo transmitimos al escritorio del anfitrión.
 
   ![cap13](imagenes/f13.png)
+  (en esta imagen el comando es acp -p 2222 -r Alex@localhost:/tmp/prueba3 ∼ "C:\Users\ASIR115\Desktop\")
   ![cap14](imagenes/f14.png)
   ![cap15](imagenes/f15.png)
 
