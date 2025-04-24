@@ -51,6 +51,7 @@
   4. Creamos el directorio `prueba3` en el servidor con **200 archivos .txt** y lo transmitimos al escritorio del anfitrión.
 
   ![cap13](imagenes/f13.png)
+  
   (en esta imagen el comando es acp -p 2222 -r Alex@localhost:/tmp/prueba3 ∼ "C:\Users\ASIR115\Desktop\")
   ![cap14](imagenes/f14.png)
   ![cap15](imagenes/f15.png)
