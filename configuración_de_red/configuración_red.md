@@ -50,7 +50,7 @@ B-
 
 ![practica2](imagenes_red/im10.png)
 
-# Editamos el archivo de configuración netpal
+# Editamos el archivo de configuración netplan
 
 ![practica2](imagenes_red/im11.png)
 
