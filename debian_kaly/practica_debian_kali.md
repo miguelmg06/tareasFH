@@ -27,6 +27,12 @@
 
 ## 2. Empezamos con la terminal
 
--a. Cambiar a castellano el teclado
+a. Cambiar a castellano el teclado
 
 ![practica2](imagenes/i12.png)
+
+b. Acceder como root con sudo
+
+![practica2](imagenes/i13.png)
+
+![practica2](imagenes/i14.png)
