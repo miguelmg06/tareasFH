@@ -18,3 +18,5 @@
 ![practica2](imagenes/i8.png)
 
 ![practica2](imagenes/i9.png)
+
+## 2. Ahora empezamos a montar el kali sobre el debian
