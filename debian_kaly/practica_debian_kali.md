@@ -22,3 +22,11 @@
 ## 2. Ahora empezamos a montar el kali sobre el debian
 
 ![practica2](imagenes/i10.png)
+
+![practica2](imagenes/i11.png)
+
+## 2. Empezamos con la terminal
+
+-a. Cambiar a castellano el teclado
+
+![practica2](imagenes/i12.png)
